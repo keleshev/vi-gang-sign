@@ -1,3 +1,6 @@
+SVG rendition of the original [vi gang sign](http://www.viemu.com/a-why-vi-vim.html)
+============================================
+
 
 [In SVG](https://raw.github.com/halst/vi-gang-sign/master/vi.svg)
 ------
