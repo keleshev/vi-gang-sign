@@ -1,8 +1,8 @@
 
-In SVG
+[In SVG](https://raw.github.com/halst/vi-gang-sign/master/vi.svg)
 ------
 
-<img src="https://raw.github.com/halst/vi-gang-sign/master/vi.svg" type="image/svg+xml" />
+Save .svg file and open with your favorite (modern) browser or image editor.
    
 Original GIF
 ------------
