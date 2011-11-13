@@ -2,7 +2,7 @@
 In SVG
 ------
 
-![vi gang sign SVG](https://raw.github.com/halst/vi-gang-sign/master/vi.svg)
+<object data="https://raw.github.com/halst/vi-gang-sign/master/vi.svg" type="image/svg+xml"></object>
    
 Original GIF
 ------------
