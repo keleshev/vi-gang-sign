@@ -11,3 +11,8 @@ Original GIF
 ------------
 
 ![vi gang sign SVG](https://raw.github.com/halst/vi-gang-sign/master/vi.gif)
+
+SVG converted to high-resolution PNG
+------------------------------------
+
+![vi gang sign SVG](https://raw.github.com/halst/vi-gang-sign/master/vi.png)
